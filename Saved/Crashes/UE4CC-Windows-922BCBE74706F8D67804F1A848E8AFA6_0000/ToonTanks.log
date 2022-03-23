@@ -1,0 +1,1814 @@
+﻿Log file open, 03/15/22 13:30:30
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ToonTanks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.364538
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=white_mind -epicuserid=99a66c0848b64b449652557e49c22227 -epiclocale=es-MX -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Engine.ini]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Engine.ini]
+[2022.03.15-16.30.30:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Engine.ini]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.15-16.30.30:917][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Engine.ini]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.15-16.30.30:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Engine.ini]
+[2022.03.15-16.30.30:918][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Engine.ini]
+[2022.03.15-16.30.30:932][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.15-16.30.30:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.15-16.30.30:933][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.15-16.30.30:934][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.15-16.30.30:934][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.15-16.30.30:934][  0]LogHAL: Display: Platform has ~ 12 GB [12764549120 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.15-16.30.30:934][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.15-16.30.30:934][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.15-16.30.30:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.15-16.30.30:935][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:935][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.15-16.30.30:936][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.15-16.30.30:936][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-16.30.30:936][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.15-16.30.30:936][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.15-16.30.30:936][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.15-16.30.30:936][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.15-16.30.30:936][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.15-16.30.30:936][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.15-16.30.30:936][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.15-16.30.30:936][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Engine.ini]
+[2022.03.15-16.30.30:936][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Config/Windows/Editor.ini]
+[2022.03.15-16.30.30:936][  0]LogInit: Computer: FENIX
+[2022.03.15-16.30.30:936][  0]LogInit: User: sebas
+[2022.03.15-16.30.30:936][  0]LogInit: CPU Page size=4096, Cores=2
+[2022.03.15-16.30.30:936][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.15-16.30.30:936][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2022.03.15-16.30.30:936][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.15-16.30.30:936][  0]LogMemory: Process Physical Memory: 129.10 MB used, 129.10 MB peak
+[2022.03.15-16.30.30:936][  0]LogMemory: Process Virtual Memory: 111.48 MB used, 111.48 MB peak
+[2022.03.15-16.30.30:936][  0]LogMemory: Physical Memory: 7298.95 MB used,  4874.27 MB free, 12173.22 MB total
+[2022.03.15-16.30.30:936][  0]LogMemory: Virtual Memory: 134203760.00 MB used,  13966.85 MB free, 134217728.00 MB total
+[2022.03.15-16.30.30:942][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.15-16.30.30:995][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.15-16.30.30:996][  0]LogInit: Using OS detected language (es-MX).
+[2022.03.15-16.30.30:996][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.03.15-16.30.31:000][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2022.03.15-16.30.31:000][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2022.03.15-16.30.31:000][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2022.03.15-16.30.31:001][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2022.03.15-16.30.31:001][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2022.03.15-16.30.31:001][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2022.03.15-16.30.31:001][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2022.03.15-16.30.31:001][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.03.15-16.30.31:001][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.03.15-16.30.31:001][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.03.15-16.30.31:045][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.15-16.30.31:056][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.15-16.30.31:076][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.15-16.30.31:076][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.15-16.30.31:379][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.15-16.30.31:379][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.15-16.30.31:379][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.15-16.30.31:380][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.15-16.30.31:499][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2022.03.15-16.30.31:499][  0]LogD3D11RHI:       4055/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.15-16.30.31:525][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2022.03.15-16.30.31:525][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.15-16.30.31:527][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.15-16.30.31:527][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.15-16.30.31:527][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.15-16.30.31:534][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.15-16.30.31:534][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2022.03.15-16.30.31:534][  0]LogWindows: EnumDisplayDevices:
+[2022.03.15-16.30.31:534][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2022.03.15-16.30.31:534][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2022.03.15-16.30.31:534][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2022.03.15-16.30.31:535][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.03.15-16.30.31:535][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2022.03.15-16.30.31:535][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.03.15-16.30.31:535][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.03.15-16.30.31:535][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2022.03.15-16.30.31:631][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.15-16.30.31:632][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.15-16.30.31:651][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.15-16.30.31:653][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.15-16.30.32:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.15-16.30.32:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.15-16.30.32:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.15-16.30.32:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.15-16.30.32:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.15-16.30.32:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.15-16.30.32:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.15-16.30.32:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.15-16.30.32:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.15-16.30.32:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.15-16.30.32:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.15-16.30.32:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.15-16.30.32:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.15-16.30.32:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.15-16.30.32:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.15-16.30.32:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.15-16.30.32:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.15-16.30.32:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.15-16.30.32:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.15-16.30.32:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.15-16.30.32:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.15-16.30.32:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.15-16.30.32:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.15-16.30.32:420][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.15-16.30.32:431][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.15-16.30.32:512][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.15-16.30.32:512][  0]LogShaderCompilers: Guid format shader working directory is -62 characters bigger than the processId version (../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Intermediate/Shaders/WorkingDirectory/10344/).
+[2022.03.15-16.30.32:513][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sebas/AppData/Local/Temp/UnrealShaderWorkingDir/86D823C24F701E12FC67A7981491CCE3/'.
+[2022.03.15-16.30.32:513][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.15-16.30.32:513][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.15-16.30.33:503][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.15-16.30.33:592][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/sebas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.15-16.30.33:592][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sebas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.15-16.30.33:592][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.15-16.30.33:592][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.15-16.30.33:593][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.15-16.30.33:593][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.15-16.30.33:611][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.15-16.30.33:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.15-16.30.33:612][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.15-16.30.33:624][  0]LogDerivedDataCache: Speed tests for C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.15-16.30.33:624][  0]LogDerivedDataCache: Display: Performance to C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1136.82MBs, RandomWriteSpeed=88.65MBs. Assigned SpeedClass 'Local'
+[2022.03.15-16.30.33:624][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.15-16.30.33:625][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.15-16.30.33:625][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.15-16.30.33:731][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.15-16.30.33:732][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.15-16.30.33:807][  0]LogAssetRegistry: FAssetRegistry took 0.0107 seconds to start up
+[2022.03.15-16.30.34:235][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.15-16.30.34:235][  0]LogInit: Active device profile: [000001D209A78900][000001D208778F40 49] Windows
+[2022.03.15-16.30.34:235][  0]LogInit: Profiles: [000001D209A78900][000001D208778F40 49] Windows, [000001D209902F00][000001D2087910C0 49] WindowsNoEditor, [000001D209A78E00][000001D208795240 49] WindowsServer, [000001D209901600][000001D2087993C0 49] WindowsClient, [000001D209A7A700][000001D20879D540 49] IOS, [000001D209900600][000001D2087A16C0 49] iPadAir, [000001D209A7B600][000001D208781800 49] iPadAir2, [000001D2098AEC00][000001D2087C1A40 49] IPadPro, [000001D2098AED00][000001D2087BDA80 49] iPadAir3, [000001D209900B00][000001D2087C5BC0 49] iPadAir4, [000001D2098AF000][000001D2087CDD40 49] iPadMini2, [000001D209900800][000001D2087F0200 49] iPadMini3, [000001D2098AD100][000001D2087F4380 49] iPadMini4, [000001D209901400][000001D2087F8500 49] iPadMini5, [000001D2098EA500][000001D2088007C0 49] iPhone6, [000001D2098EA600][000001D2087FC800 49] iPodTouch6, [000001D2098AD600][000001D208808AC0 49] iPhone7, [000001D2098AD500][000001D208804B00 49] iPodTouch7, [000001D2098EBC00][000001D20880CC80 49] iPhone5S, [000001D2098AEB00][000001D208810E00 49] iPhone6Plus, [000001D2098E9400][000001D208814F80 49] iPhone6S, [000001D2098AE500][000001D208819100 49] iPhone6SPlus, [000001D2098EBB00][000001D20881D280 49] iPhone7Plus, [000001D2098AD000][000001D208821400 49] iPhoneSE, [000001D2098EAA00][000001D208825580 49] iPhone8, [000001D2098AE100][000001D208829700 49] iPhone8Plus, [000001D2098E9F00][000001D20882D880 49] iPhoneX, [000001D2098ADF00][000001D2087C99C0 49] iPhoneXS, [000001D2098E8400][000001D208831B00 49] iPhoneXSMax, [000001D2098AF100][000001D208835C40 49] iPhoneXR, [000001D2098E9100][000001D20883C100 49] iPhone11, [000001D2098AD900][000001D208840280 49] iPhone11Pro, [000001D2098EB000][000001D208844400 49] iPhone11ProMax, [000001D2098AF500][000001D208848580 49] iPhoneSE2, [000001D2098EB200][000001D20884C700 49] iPhone12Mini, [000001D2098AC400][000001D20A860880 49] iPhone12, [000001D2098E9C00][000001D20A864A00 49] iPhone12Pro, [000001D2098AFD00][000001D20A868B80 49] iPhone12ProMax, [000001D2098E8D00][000001D20A86CD00 49] iPadPro105, [000001D2098AE300][000001D20A870E80 49] iPadPro129, [000001D2098AC800][000001D20A875000 49] iPadPro97, [000001D209A78F00][000001D20A879180 49] iPadPro2_129, [000001D2098E9700][000001D20A87D300 49] iPad5, [000001D209A7AB00][000001D20A881480 49] iPad6, [000001D2098EBA00][000001D20A885600 49] iPad7, [000001D209A79200][000001D20A889780 49] iPad8, [000001D2098EA700][000001D20A88D900 49] iPadPro11, [000001D209A7AF00][000001D208839A40 49] iPadPro2_11, [000001D2098EB700][000001D20A891B80 49] iPadPro3_129, [000001D209A79800][000001D20A895CC0 49] iPadPro4_129, [000001D2098E8F00][000001D20A89C180 49] AppleTV, [000001D209A7BB00][000001D20A8A0300 49] AppleTV4K, [000001D2098EAF00][000001D20A8A4480 49] TVOS, [000001D209A79E00][000001D20A8A8600 49] Mac, [000001D2098E8100][000001D20A8AC780 49] MacClient, [000001D209A7B100][000001D20A8B0900 49] MacNoEditor, [000001D2098E8600][000001D20A8B4A80 49] MacServer, [000001D209A7A100][000001D20A8B8C00 49] Linux, [000001D2098E9E00][000001D20A8BCD80 49] LinuxAArch64, [000001D209A78500][000001D20A8C0F00 49] LinuxNoEditor, [000001D2098E9000][000001D20A8C5080 49] LinuxAArch64NoEditor, [000001D209A78400][000001D20A8C9200 49] LinuxClient, [000001D2098EB900][000001D20A8CD380 49] LinuxAArch64Client, [000001D209A78200][000001D20A8D1500 49] LinuxServer, [000001D2098E8C00][000001D20A8D5680 49] LinuxAArch64Server, [000001D209A7B400][000001D20A8D9800 49] Android, [000001D2098E9500][000001D20A8DD980 49] Android_Low, [000001D209A7A900][000001D20A899AC0 49] Android_Mid, [000001D2098EA200][000001D20A8E1C00 49] Android_High, [000001D209A78A00][000001D20A8E5D40 49] Android_Default, [000001D2098EAE00][000001D20A8E81C0 49] Android_Adreno4xx, [000001D209A7B500][000001D20A8F0340 49] Android_Adreno5xx_Low, [000001D2098E9D00][000001D20A8F44C0 49] Android_Adreno5xx, [000001D209A79400][000001D20A8F8640 49] Android_Adreno6xx, [000001D2098EAD00][000001D20A8FC7C0 49] Android_Adreno6xx_Vulkan, [000001D209A78300][000001D20A900940 49] Android_Mali_T6xx, [000001D2098E8700][000001D20A904AC0 49] Android_Mali_T7xx, [000001D209A7AA00][000001D20A908C40 49] Android_Mali_T8xx, [000001D2098E8500][000001D20A90CDC0 49] Android_Mali_G71, [000001D209A79500][000001D20A910F40 49] Android_Mali_G72, [000001D2098EB400][000001D20A9150C0 49] Android_Mali_G72_Vulkan, [000001D209A78C00][000001D20A919240 49] Android_Mali_G76, [000001D2098E8B00][000001D20A91D3C0 49] Android_Mali_G76_Vulkan, [000001D209A79C00][000001D20A921540 49] Android_Mali_G77, [000001D2098E8A00][000001D20A9256C0 49] Android_Mali_G77_Vulkan, [000001D209A7B700][000001D20A929840 49] Android_Vulkan_SM5, [000001D2098EB800][000001D20A92D9C0 49] Android_PowerVR_G6xxx, [000001D209A79900][000001D20A8EDB00 49] Android_PowerVR_GT7xxx, [000001D2098EA900][000001D20A931C40 49] Android_PowerVR_GE8xxx, [000001D2098AD800][000001D20A9340C0 49] Android_PowerVR_GM9xxx, [000001D209902300][000001D20A938200 49] Android_PowerVR_GM9xxx_Vulkan, [000001D2098AF800][000001D20A940380 49] Android_TegraK1, [000001D209903600][000001D20A944500 49] Android_Unknown_Vulkan, [000001D2098AFC00][000001D20A948680 49] Lumin, [000001D209902200][000001D20A94C800 49] Lumin_Desktop, [000001D2098AE600][000001D20A950980 49] HoloLens, 
+[2022.03.15-16.30.34:371][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.15-16.30.34:371][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.15-16.30.34:371][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.15-16.30.34:371][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.15-16.30.34:371][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.15-16.30.34:392][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2091550394)
+[2022.03.15-16.30.35:024][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.15-16.30.35:195][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 2 prioritized culture(s) in 0.169530 seconds
+[2022.03.15-16.30.35:201][  0]LogUObjectArray: 16827 objects as part of root set at end of initial load.
+[2022.03.15-16.30.35:201][  0]LogUObjectAllocator: 4208352 out of 0 bytes used by permanent object pool.
+[2022.03.15-16.30.35:201][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.15-16.30.35:642][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.15-16.30.35:648][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.15-16.30.35:815][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.15-16.30.35:815][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.15-16.30.35:821][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.15-16.30.35:825][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.15-16.30.35:839][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.15-16.30.35:842][  0]LogUProjectInfo: Found projects:
+[2022.03.15-16.30.36:108][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.15-16.30.36:126][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.15-16.30.36:126][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.15-16.30.36:186][  0]LogCollectionManager: Loaded 0 collections in 0.002297 seconds
+[2022.03.15-16.30.36:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Collections/' took 0.00s
+[2022.03.15-16.30.36:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Developers/sebas/Collections/' took 0.00s
+[2022.03.15-16.30.36:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Collections/' took 0.00s
+[2022.03.15-16.30.36:213][  0]LogOcInput: OculusInput pre-init called
+[2022.03.15-16.30.36:226][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.15-16.30.36:227][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.15-16.30.36:280][  0]LogEngine: Initializing Engine...
+[2022.03.15-16.30.36:281][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.15-16.30.36:281][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.15-16.30.36:282][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.15-16.30.36:412][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.15-16.30.36:422][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.15-16.30.36:436][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.15-16.30.36:441][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.15-16.30.36:441][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.15-16.30.36:441][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-16.30.36:441][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-16.30.36:441][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-16.30.36:441][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-16.30.36:441][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-16.30.36:441][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-16.30.36:441][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-16.30.36:441][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-16.30.36:442][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.15-16.30.36:442][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-16.30.36:456][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-16.30.36:457][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-16.30.36:498][  0]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2022.03.15-16.30.36:505][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-16.30.36:507][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-16.30.36:507][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-16.30.36:508][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-16.30.36:508][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-16.30.36:508][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-16.30.36:510][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-16.30.36:510][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.15-16.30.36:510][  0]LogInit: FAudioDevice initialized.
+[2022.03.15-16.30.36:510][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.15-16.30.36:510][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.15-16.30.36:839][  0]LogDerivedDataCache: Saved boot cache 0.33s 77MB C:/Users/sebas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.15-16.30.36:842][  0]LogInit: Texture streaming: Enabled
+[2022.03.15-16.30.36:866][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.03.15-16.30.36:871][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.15-16.30.36:871][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.15-16.30.36:874][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.15-16.30.36:910][  0]LogInit: Transaction tracking system initialized
+[2022.03.15-16.30.36:941][  0]BlueprintLog: New page: Cargar el editor
+[2022.03.15-16.30.37:024][  0]LocalizationService: Localization service is disabled
+[2022.03.15-16.30.37:051][  0]TimingProfiler: Initialize
+[2022.03.15-16.30.37:051][  0]TimingProfiler: OnSessionChanged
+[2022.03.15-16.30.37:051][  0]LoadingProfiler: Initialize
+[2022.03.15-16.30.37:051][  0]LoadingProfiler: OnSessionChanged
+[2022.03.15-16.30.37:051][  0]NetworkingProfiler: Initialize
+[2022.03.15-16.30.37:051][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.15-16.30.37:051][  0]MemoryProfiler: Initialize
+[2022.03.15-16.30.37:051][  0]MemoryProfiler: OnSessionChanged
+[2022.03.15-16.30.37:258][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.15-16.30.37:258][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.15-16.30.37:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/' took 0.01s
+[2022.03.15-16.30.37:796][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.15-16.30.37:801][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.15-16.30.37:802][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.627
+[2022.03.15-16.30.37:802][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.15-16.30.37:808][  0]LightingResults: New page: Diseñar la iluminación
+[2022.03.15-16.30.37:808][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.30.37:808][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.30.37:809][  0]MapCheck: New page: Revisión del mapa
+[2022.03.15-16.30.37:809][  0]LightingResults: New page: Diseñar la iluminación
+[2022.03.15-16.30.37:820][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.03.15-16.30.38:400][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.03.15-16.30.38:401][  0]LogAIModule: Creating AISystem for world Main
+[2022.03.15-16.30.38:410][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.15-16.30.38:427][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.03.15-16.30.38:427][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.15-16.30.38:427][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2022.03.15-16.30.38:427][  0]LogFileHelpers: Loading map 'Main' took 0.626
+[2022.03.15-16.30.38:433][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.259
+[2022.03.15-16.30.38:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.30.38:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.30.38:701][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.30.38:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.30.38:803][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0112 seconds. Added 3610 classes and 864 folders.
+[2022.03.15-16.30.38:820][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.15-16.30.38:841][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-16.30.38:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-16.30.38:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.03.15-16.30.38:853][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.15-16.30.38:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.15-16.30.38:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.03.15-16.30.38:863][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.15-16.30.38:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.15-16.30.38:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.03.15-16.30.38:871][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-16.30.38:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-16.30.38:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.03.15-16.30.38:879][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.15-16.30.38:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.15-16.30.38:880][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.03.15-16.30.38:887][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.15-16.30.38:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.15-16.30.38:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-16.30.38:895][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.15-16.30.38:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.15-16.30.38:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.15-16.30.38:904][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.15-16.30.38:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.15-16.30.38:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.15-16.30.38:915][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-16.30.38:915][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-16.30.38:915][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.03.15-16.30.38:924][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.15-16.30.38:924][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.15-16.30.38:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.03.15-16.30.38:931][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.15-16.30.38:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.15-16.30.38:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.03.15-16.30.38:939][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-16.30.38:939][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:939][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-16.30.38:939][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.03.15-16.30.38:946][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-16.30.38:946][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-16.30.38:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.03.15-16.30.38:954][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-16.30.38:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-16.30.38:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.03.15-16.30.38:961][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.15-16.30.38:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.15-16.30.38:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.03.15-16.30.38:971][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-16.30.38:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-16.30.38:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.03.15-16.30.38:978][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.15-16.30.38:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:978][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.15-16.30.38:978][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.03.15-16.30.38:987][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-16.30.38:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-16.30.38:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.03.15-16.30.38:996][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-16.30.38:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.38:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-16.30.38:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.03.15-16.30.39:008][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-16.30.39:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.39:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-16.30.39:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.03.15-16.30.39:015][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-16.30.39:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.39:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-16.30.39:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.03.15-16.30.39:023][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-16.30.39:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.39:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-16.30.39:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2022.03.15-16.30.39:030][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.15-16.30.39:030][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.39:030][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.15-16.30.39:030][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2022.03.15-16.30.39:038][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-16.30.39:038][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.39:038][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-16.30.39:038][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2022.03.15-16.30.39:047][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-16.30.39:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.39:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-16.30.39:047][  0]LogPakFile: OnPakFileMounted2Time == 0.000120
+[2022.03.15-16.30.39:055][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.15-16.30.39:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-16.30.39:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.15-16.30.39:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2022.03.15-16.30.39:264][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.15-16.30.39:400][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.15-16.30.39:409][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.15-16.30.39:423][  0]LogSlate: Took 0.011277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.15-16.30.39:586][  0]LogRenderer: Reallocating scene render targets to support 840x356 Format 10 NumSamples 1 (Frame:1).
+[2022.03.15-16.30.40:311][  0]LogSlate: Took 0.008089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.15-16.30.40:408][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.15-16.30.40:408][  0]LogLoad: (Engine Initialization) Total time: 11.23 seconds
+[2022.03.15-16.30.40:408][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.15-16.30.40:408][  0]LogInit: First time updating LLM stats...
+[2022.03.15-16.30.40:461][  0]LogAssetRegistry: Asset discovery search completed in 6.6622 seconds
+[2022.03.15-16.30.40:463][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.15-16.30.40:507][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.15-16.31.09:291][856]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.15-16.31.09:316][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TankPawn.BP_TankPawn
+[2022.03.15-16.31.10:084][856]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.15-16.31.11:235][856]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.15-16.31.11:599][868]LogSlate: Took 0.006615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.15-16.31.22:097][432]LogSlate: Window 'BP_TankPawn' being destroyed
+[2022.03.15-16.31.22:107][432]LogSlate: Window 'BP_TankPawn' being destroyed
+[2022.03.15-16.31.22:120][432]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.31.22:120][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.31.35:441][187]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TankPawn.BP_TankPawn
+[2022.03.15-16.31.46:547][779]BlueprintLog: New page: Compilar BP_TankPawn
+[2022.03.15-16.31.46:636][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.15-16.31.46:716][779]LogSavePackage: Moving '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/BP_TankPawn29F7ED114EC98D318858528400CD28EB.tmp' to '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Blueprints/Pawns/BP_TankPawn.uasset'
+[2022.03.15-16.31.46:733][779]AssetCheck: New page: Asset Save: BP_TankPawn
+[2022.03.15-16.31.46:733][779]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TankPawn.BP_TankPawn
+[2022.03.15-16.31.46:772][779]LogSlate: Took 0.009300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.15-16.31.48:472][878]LogSlate: Window 'BP_TankPawn' being destroyed
+[2022.03.15-16.31.48:476][878]LogSlate: Window 'BP_TankPawn' being destroyed
+[2022.03.15-16.31.48:484][878]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.31.48:485][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.31.49:667][918]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TowerPawn.BP_TowerPawn
+[2022.03.15-16.32.01:446][549]BlueprintLog: New page: Compilar BP_TowerPawn
+[2022.03.15-16.32.01:524][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.03.15-16.32.01:608][549]LogSavePackage: Moving '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/BP_TowerPawn6B7D0956400A11301DDB9A9400FE00ED.tmp' to '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Blueprints/Pawns/BP_TowerPawn.uasset'
+[2022.03.15-16.32.01:630][549]AssetCheck: New page: Asset Save: BP_TowerPawn
+[2022.03.15-16.32.01:630][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TowerPawn.BP_TowerPawn
+[2022.03.15-16.32.04:412][710]LogSlate: Window 'BP_TowerPawn' being destroyed
+[2022.03.15-16.32.04:418][710]LogSlate: Window 'BP_TowerPawn' being destroyed
+[2022.03.15-16.32.04:426][710]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.32.04:426][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.32.06:371][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.15-16.32.06:388][813]LogSavePackage: Moving '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Main63EA517449D3D6DC3685ECB7E085B75E.tmp' to '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Maps/Main.umap'
+[2022.03.15-16.32.06:455][813]LogSavePackage: Moving '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Main_BuiltData18826FDF4F7BA480A2C405AA1377DAB8.tmp' to '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Maps/Main_BuiltData.uasset'
+[2022.03.15-16.32.06:480][813]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.15-16.32.06:480][813]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2022.03.15-16.32.06:481][813]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.03.15-16.32.08:816][947]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.15-16.32.08:828][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-16.32.08:834][947]PIE: New page: Sesión PIE (reproducción en el editor): Main (Mar 15, 2022, 10:32:08 AM)
+[2022.03.15-16.32.08:836][947]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.15-16.32.08:838][947]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.15-16.32.08:838][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.03.15-16.32.08:842][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004157s)
+[2022.03.15-16.32.08:843][947]LogAIModule: Creating AISystem for world Main
+[2022.03.15-16.32.08:843][947]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2022.03.15-16.32.08:843][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005575s)
+[2022.03.15-16.32.08:871][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.03.15-16.32.08:873][947]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.15-16.32.08:873][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-16.32.08:873][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-16.32.08:873][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-16.32.08:873][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-16.32.08:873][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-16.32.08:873][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-16.32.08:873][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-16.32.08:873][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-16.32.08:873][947]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.15-16.32.08:873][947]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-16.32.08:877][947]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-16.32.08:877][947]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-16.32.08:898][947]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2022.03.15-16.32.08:899][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-16.32.08:899][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-16.32.08:899][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-16.32.08:899][947]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-16.32.08:899][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-16.32.08:899][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-16.32.08:925][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-16.32.08:925][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.15-16.32.08:925][947]LogInit: FAudioDevice initialized.
+[2022.03.15-16.32.08:925][947]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2022.03.15-16.32.08:937][947]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2022.03.15-16.32.08:941][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.03.15-13.32.08
+[2022.03.15-16.32.08:942][947]LogWorld: Bringing up level for play took: 0.003095
+[2022.03.15-16.32.08:942][947]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.15-16.32.08:953][947]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.03.15-16.32.08:963][947]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.32.08:963][947]LogTemp: Warning: NO ENTRÉ AL IF
+[2022.03.15-16.32.08:966][947]PIE: El servidor ha iniciado la sesión
+[2022.03.15-16.32.08:967][947]PIE: Play in editor total start time 0.143 seconds.
+[2022.03.15-16.32.08:971][947]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:421][948]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:437][949]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:455][950]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:472][951]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:502][952]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:521][953]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:537][954]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:560][955]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:571][956]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:587][957]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:604][958]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:620][959]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:653][960]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:674][961]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:688][962]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:704][963]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:721][964]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:738][965]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:756][966]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:773][967]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:790][968]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:806][969]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:822][970]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:840][971]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:856][972]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:873][973]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:890][974]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:906][975]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:923][976]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:938][977]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:955][978]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:972][979]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.09:989][980]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:006][981]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:022][982]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:039][983]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:056][984]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:072][985]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:089][986]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:109][987]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:125][988]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:141][989]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:158][990]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:174][991]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:191][992]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:208][993]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:225][994]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:242][995]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:259][996]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:275][997]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:292][998]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:309][999]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:325][  0]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:342][  1]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:358][  2]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:375][  3]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:392][  4]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:409][  5]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:425][  6]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:442][  7]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:460][  8]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:476][  9]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:493][ 10]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:511][ 11]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:527][ 12]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:546][ 13]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:561][ 14]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:577][ 15]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:596][ 16]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:611][ 17]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:627][ 18]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:645][ 19]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:660][ 20]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:676][ 21]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:693][ 22]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:710][ 23]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:727][ 24]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:743][ 25]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:760][ 26]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:777][ 27]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:795][ 28]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:812][ 29]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:829][ 30]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:845][ 31]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:861][ 32]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:878][ 33]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:895][ 34]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:912][ 35]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:928][ 36]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:945][ 37]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:963][ 38]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:980][ 39]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.10:995][ 40]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:012][ 41]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:028][ 42]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:045][ 43]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:064][ 44]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:082][ 45]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:097][ 46]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:114][ 47]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:131][ 48]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:147][ 49]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:164][ 50]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:185][ 51]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:197][ 52]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:215][ 53]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:230][ 54]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:247][ 55]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:264][ 56]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:280][ 57]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:298][ 58]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:314][ 59]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:331][ 60]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:348][ 61]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:365][ 62]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:381][ 63]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:397][ 64]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:413][ 65]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:430][ 66]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:447][ 67]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:463][ 68]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:481][ 69]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:497][ 70]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:514][ 71]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:531][ 72]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:548][ 73]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:564][ 74]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:581][ 75]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:598][ 76]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:614][ 77]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:631][ 78]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:648][ 79]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:664][ 80]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:682][ 81]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:698][ 82]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:714][ 83]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:731][ 84]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:749][ 85]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:765][ 86]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:780][ 87]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:798][ 88]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:814][ 89]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:814][ 89]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.32.11:814][ 89]LogTemp: Warning: ENTRÉ AL IF
+[2022.03.15-16.32.11:831][ 90]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:848][ 91]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:867][ 92]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:881][ 93]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:897][ 94]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:915][ 95]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:932][ 96]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:948][ 97]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:965][ 98]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:981][ 99]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.11:998][100]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:015][101]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:031][102]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:048][103]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:065][104]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:082][105]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:099][106]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:116][107]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:132][108]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:148][109]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:164][110]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:181][111]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:198][112]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:215][113]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:231][114]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:248][115]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:265][116]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:281][117]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:298][118]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:315][119]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:331][120]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:348][121]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:365][122]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:382][123]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:398][124]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:415][125]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:432][126]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:448][127]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:465][128]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:485][129]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:500][130]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:516][131]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:531][132]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:549][133]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:565][134]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:581][135]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:598][136]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:615][137]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:632][138]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:648][139]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:665][140]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:683][141]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:698][142]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:714][143]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:731][144]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:748][145]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:765][146]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:781][147]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:798][148]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:815][149]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:833][150]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:849][151]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:865][152]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:883][153]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:904][154]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:917][155]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:936][156]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:951][157]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:965][158]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:981][159]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.12:997][160]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:014][161]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:032][162]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:050][163]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:068][164]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:083][165]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:101][166]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:115][167]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:131][168]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:148][169]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:164][170]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:181][171]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:199][172]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:215][173]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:232][174]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:249][175]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:265][176]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:282][177]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:300][178]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:316][179]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:332][180]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:348][181]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:366][182]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:381][183]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:398][184]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:416][185]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:433][186]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:448][187]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:466][188]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:482][189]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:498][190]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:516][191]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:535][192]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:549][193]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:564][194]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:581][195]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:604][196]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:615][197]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:633][198]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:651][199]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:665][200]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:683][201]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:702][202]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:716][203]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:733][204]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:754][205]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:767][206]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:782][207]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:800][208]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:815][209]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:831][210]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:849][211]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:864][212]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:882][213]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:898][214]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:915][215]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:932][216]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:950][217]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:966][218]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.13:982][219]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:000][220]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:016][221]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:032][222]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:050][223]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:065][224]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:082][225]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:099][226]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:116][227]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:131][228]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:149][229]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:167][230]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:182][231]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:199][232]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:215][233]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:232][234]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:250][235]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:265][236]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:284][237]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:300][238]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:317][239]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:334][240]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:350][241]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:366][242]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:382][243]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:400][244]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:415][245]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:432][246]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:449][247]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:467][248]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:483][249]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:499][250]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:516][251]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:533][252]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:550][253]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:567][254]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:586][255]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:600][256]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:617][257]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:633][258]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:649][259]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:665][260]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:682][261]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:699][262]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:717][263]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:732][264]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:750][265]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:766][266]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:782][267]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:799][268]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:816][269]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:833][270]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:849][271]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:866][272]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:882][273]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:899][274]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:917][275]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:932][276]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:949][277]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:967][278]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.14:983][279]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:000][280]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:016][281]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:036][282]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:052][283]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:068][284]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:085][285]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:101][286]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:118][287]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:135][288]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:152][289]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:169][290]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:186][291]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:206][292]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:220][293]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:236][294]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:253][295]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:271][296]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:285][297]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:302][298]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:320][299]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:336][300]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:353][301]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:370][302]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:386][303]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:403][304]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:420][305]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:438][306]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:454][307]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:470][308]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:486][309]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:503][310]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:520][311]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:537][312]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:554][313]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:570][314]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:586][315]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:604][316]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:619][317]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:636][318]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:653][319]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:670][320]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:686][321]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:703][322]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:720][323]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:737][324]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:753][325]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:771][326]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:787][327]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:804][328]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:821][329]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:837][330]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:854][331]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:871][332]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:887][333]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:904][334]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:920][335]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:937][336]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:954][337]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:971][338]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.15:987][339]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:004][340]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:020][341]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:036][342]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:053][343]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:070][344]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:086][345]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:103][346]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:120][347]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:137][348]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:154][349]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:172][350]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:187][351]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:204][352]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:221][353]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:237][354]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:253][355]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:269][356]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:286][357]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:304][358]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:320][359]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:337][360]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:353][361]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:371][362]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:387][363]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:403][364]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:420][365]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:437][366]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:454][367]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:471][368]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:487][369]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:504][370]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:521][371]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:537][372]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:554][373]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:572][374]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:588][375]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:604][376]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:621][377]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:637][378]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:654][379]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:670][380]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:687][381]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:704][382]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:720][383]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:737][384]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:754][385]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:770][386]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:787][387]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:804][388]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:822][389]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:837][390]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:854][391]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:871][392]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:888][393]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:904][394]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:921][395]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:938][396]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:954][397]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:971][398]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.16:988][399]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:003][400]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:020][401]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:037][402]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:055][403]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:070][404]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:087][405]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:104][406]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:120][407]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:137][408]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:154][409]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:171][410]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:187][411]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:204][412]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:222][413]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:237][414]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:255][415]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:272][416]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:288][417]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:305][418]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:322][419]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:339][420]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:355][421]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:371][422]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:388][423]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:405][424]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:423][425]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:438][426]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:455][427]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:472][428]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:489][429]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:506][430]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:522][431]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:539][432]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:556][433]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:571][434]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:588][435]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:606][436]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:621][437]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:638][438]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:655][439]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:671][440]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:689][441]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:706][442]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:722][443]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:739][444]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:755][445]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:772][446]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:788][447]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:807][448]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:822][449]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:842][450]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:856][451]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:872][452]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:889][453]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:906][454]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:922][455]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:938][456]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:955][457]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:971][458]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.17:988][459]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:006][460]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:021][461]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:038][462]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:055][463]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:072][464]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:088][465]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:105][466]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:123][467]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:139][468]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:156][469]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:172][470]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:189][471]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:206][472]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:222][473]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:239][474]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:257][475]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:272][476]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:290][477]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:305][478]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:322][479]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:339][480]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:355][481]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:371][482]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:388][483]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:405][484]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:421][485]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:438][486]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:455][487]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:473][488]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:489][489]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:505][490]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:522][491]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:539][492]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:556][493]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:572][494]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:589][495]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:605][496]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:622][497]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:639][498]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:657][499]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:673][500]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:689][501]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:706][502]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:722][503]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:738][504]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:755][505]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:772][506]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:788][507]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:806][508]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:824][509]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:839][510]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:856][511]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:873][512]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:890][513]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:905][514]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:923][515]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:939][516]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:956][517]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:974][518]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.18:991][519]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:006][520]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:025][521]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:041][522]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:057][523]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:073][524]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:089][525]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:105][526]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:122][527]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:139][528]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:155][529]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:172][530]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:190][531]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:206][532]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:223][533]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:239][534]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:256][535]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:273][536]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:290][537]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:306][538]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:323][539]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:341][540]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:355][541]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:372][542]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:389][543]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:406][544]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:423][545]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:440][546]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:456][547]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:472][548]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:491][549]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:506][550]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:522][551]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:539][552]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:557][553]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:573][554]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:590][555]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:606][556]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:623][557]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:641][558]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:656][559]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:672][560]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:689][561]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:705][562]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:723][563]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:739][564]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:756][565]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:772][566]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:789][567]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:806][568]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:822][569]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:839][570]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:856][571]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:873][572]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:891][573]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:907][574]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:921][575]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:938][576]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:955][577]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:972][578]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.19:989][579]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:006][580]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:023][581]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:039][582]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:056][583]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:073][584]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:090][585]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:105][586]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:122][587]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:139][588]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:156][589]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:172][590]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:189][591]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:206][592]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:222][593]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:239][594]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:256][595]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:273][596]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:290][597]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:306][598]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:323][599]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:340][600]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:356][601]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:373][602]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:390][603]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:406][604]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:423][605]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:440][606]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:456][607]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:473][608]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:490][609]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:506][610]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:522][611]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:539][612]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:555][613]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:572][614]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:590][615]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:605][616]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:622][617]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:640][618]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:657][619]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:676][620]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:690][621]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:706][622]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:725][623]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:741][624]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:756][625]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:773][626]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:791][627]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:807][628]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:824][629]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:841][630]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:856][631]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:873][632]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:890][633]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:906][634]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:923][635]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:940][636]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:956][637]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:973][638]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.20:990][639]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:007][640]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:023][641]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:040][642]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:057][643]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:073][644]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:090][645]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:107][646]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:124][647]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:141][648]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:157][649]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:174][650]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:190][651]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:206][652]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:223][653]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:240][654]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:257][655]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:274][656]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:290][657]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:307][658]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:324][659]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:341][660]LogTemp: Warning: No se encontró PlayerControllRef
+[2022.03.15-16.32.21:382][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.32.21:382][660]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.03.15-16.32.21:383][660]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.32.21:383][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.32.21:405][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-16.32.21:415][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.32.21:466][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-16.32.21:466][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-16.32.21:467][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-16.32.21:494][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.32.21:535][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.03.15-16.32.21:558][661]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.15-16.32.28:435][ 23]Cmd: DELETE
+[2022.03.15-16.32.28:435][ 23]Cmd: ACTOR DELETE
+[2022.03.15-16.32.28:441][ 23]LogEditorActor: Deleted Actor: BP_TankPawn_C
+[2022.03.15-16.32.28:520][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.03.15-16.32.28:522][ 23]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2022.03.15-16.32.29:570][ 84]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.03.15-16.32.33:395][303]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.15-16.32.36:080][462]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.15-16.32.38:167][584]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.15-16.32.40:213][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TankPawn.BP_TankPawn
+[2022.03.15-16.32.42:229][736]LogRenderer: Reallocating scene render targets to support 840x460 Format 10 NumSamples 1 (Frame:1).
+[2022.03.15-16.33.40:091][ 62]BlueprintLog: New page: Compilar BP_TankPawn
+[2022.03.15-16.33.40:179][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.15-16.33.40:255][ 62]LogSavePackage: Moving '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/BP_TankPawn36A1891149DCEE7411A68FAB30D8DF5D.tmp' to '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Blueprints/Pawns/BP_TankPawn.uasset'
+[2022.03.15-16.33.40:275][ 62]AssetCheck: New page: Asset Save: BP_TankPawn
+[2022.03.15-16.33.40:275][ 62]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TankPawn.BP_TankPawn
+[2022.03.15-16.33.41:618][121]LogSlate: Window 'BP_TankPawn' being destroyed
+[2022.03.15-16.33.41:643][121]LogSlate: Window 'BP_TankPawn' being destroyed
+[2022.03.15-16.33.41:656][121]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.33.41:657][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.33.43:405][214]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.15-16.33.43:419][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-16.33.43:419][214]PIE: New page: Sesión PIE (reproducción en el editor): Main (Mar 15, 2022, 10:33:43 AM)
+[2022.03.15-16.33.43:419][214]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.03.15-16.33.43:423][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004085s)
+[2022.03.15-16.33.43:424][214]LogAIModule: Creating AISystem for world Main
+[2022.03.15-16.33.43:424][214]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2022.03.15-16.33.43:424][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005562s)
+[2022.03.15-16.33.43:456][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.03.15-16.33.43:458][214]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.15-16.33.43:458][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-16.33.43:458][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-16.33.43:458][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-16.33.43:458][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-16.33.43:458][214]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-16.33.43:458][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-16.33.43:458][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-16.33.43:458][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-16.33.43:458][214]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.15-16.33.43:458][214]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-16.33.43:462][214]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-16.33.43:462][214]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-16.33.43:485][214]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2022.03.15-16.33.43:486][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-16.33.43:486][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-16.33.43:486][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-16.33.43:486][214]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-16.33.43:486][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-16.33.43:486][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-16.33.43:513][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-16.33.43:513][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.15-16.33.43:513][214]LogInit: FAudioDevice initialized.
+[2022.03.15-16.33.43:513][214]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2022.03.15-16.33.43:532][214]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2022.03.15-16.33.43:534][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.03.15-13.33.43
+[2022.03.15-16.33.43:535][214]LogWorld: Bringing up level for play took: 0.002335
+[2022.03.15-16.33.43:535][214]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.15-16.33.43:538][214]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.03.15-16.33.43:539][214]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.33.43:539][214]LogTemp: Warning: NO ENTRÉ AL IF
+[2022.03.15-16.33.43:540][214]PIE: El servidor ha iniciado la sesión
+[2022.03.15-16.33.43:541][214]PIE: Play in editor total start time 0.127 seconds.
+[2022.03.15-16.33.46:406][381]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.33.46:406][381]LogTemp: Warning: ENTRÉ AL IF
+[2022.03.15-16.34.00:371][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.34.00:371][209]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.03.15-16.34.00:371][209]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.34.00:372][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.34.00:381][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-16.34.00:396][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.34.00:420][209]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-16.34.00:420][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-16.34.00:421][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-16.34.00:446][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.34.00:449][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.03.15-16.34.00:477][210]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.15-16.34.04:216][367]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TankPawn.BP_TankPawn
+[2022.03.15-16.34.10:508][662]BlueprintLog: New page: Compilar BP_TankPawn
+[2022.03.15-16.34.10:591][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.03.15-16.34.10:686][662]LogSavePackage: Moving '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/BP_TankPawnB6955B954C65C57D37AC659735F034C2.tmp' to '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Content/Blueprints/Pawns/BP_TankPawn.uasset'
+[2022.03.15-16.34.10:706][662]AssetCheck: New page: Asset Save: BP_TankPawn
+[2022.03.15-16.34.10:706][662]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TankPawn.BP_TankPawn
+[2022.03.15-16.34.11:616][706]LogSlate: Window 'BP_TankPawn' being destroyed
+[2022.03.15-16.34.11:623][706]LogSlate: Window 'BP_TankPawn' being destroyed
+[2022.03.15-16.34.11:659][706]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.34.11:660][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.34.13:251][788]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.15-16.34.13:263][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.15-16.34.13:263][788]PIE: New page: Sesión PIE (reproducción en el editor): Main (Mar 15, 2022, 10:34:13 AM)
+[2022.03.15-16.34.13:263][788]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2022.03.15-16.34.13:267][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004147s)
+[2022.03.15-16.34.13:268][788]LogAIModule: Creating AISystem for world Main
+[2022.03.15-16.34.13:269][788]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2022.03.15-16.34.13:269][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005800s)
+[2022.03.15-16.34.13:301][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.03.15-16.34.13:302][788]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.15-16.34.13:302][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-16.34.13:302][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-16.34.13:303][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-16.34.13:303][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-16.34.13:303][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-16.34.13:303][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-16.34.13:303][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-16.34.13:303][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-16.34.13:303][788]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.15-16.34.13:303][788]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-16.34.13:307][788]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-16.34.13:307][788]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-16.34.13:329][788]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2022.03.15-16.34.13:330][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-16.34.13:330][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-16.34.13:330][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-16.34.13:331][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-16.34.13:331][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-16.34.13:331][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-16.34.13:356][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-16.34.13:356][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.15-16.34.13:356][788]LogInit: FAudioDevice initialized.
+[2022.03.15-16.34.13:356][788]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2022.03.15-16.34.13:366][788]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2022.03.15-16.34.13:369][788]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.03.15-13.34.13
+[2022.03.15-16.34.13:370][788]LogWorld: Bringing up level for play took: 0.002769
+[2022.03.15-16.34.13:370][788]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.15-16.34.13:373][788]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2022.03.15-16.34.13:373][788]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.34.13:373][788]LogTemp: Warning: NO ENTRÉ AL IF
+[2022.03.15-16.34.13:374][788]PIE: El servidor ha iniciado la sesión
+[2022.03.15-16.34.13:375][788]PIE: Play in editor total start time 0.114 seconds.
+[2022.03.15-16.34.16:267][953]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.34.16:267][953]LogTemp: Warning: ENTRÉ AL IF
+[2022.03.15-16.34.23:475][376]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.34.23:475][376]LogTemp: Warning: NO ENTRÉ AL IF
+[2022.03.15-16.34.25:442][494]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.34.25:442][494]LogTemp: Warning: NO ENTRÉ AL IF
+[2022.03.15-16.34.25:475][496]LogTemp: Warning: ESTOY EN EL TOON PLAYER CONTROLER
+[2022.03.15-16.34.25:475][496]LogTemp: Warning: NO ENTRÉ AL IF
+[2022.03.15-16.34.25:661][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.34.25:661][505]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2022.03.15-16.34.25:661][505]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-16.34.25:661][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.34.25:668][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.15-16.34.25:683][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-16.34.25:706][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.15-16.34.25:706][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-16.34.25:707][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.15-16.34.25:732][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-16.34.25:735][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.03.15-16.34.25:765][506]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.15-16.42.48:506][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.03.15-16.42.48:551][545]LogSavePackage: Moving '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Main_Auto1389DF8EA410F2A79E5E69690E690BD2D.tmp' to '../../../../../../Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2022.03.15-16.42.48:554][545]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.093
+[2022.03.15-16.42.48:555][545]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2022.03.15-17.06.10:829][361]Candidate modules for hot reload:
+[2022.03.15-17.06.10:829][361]  ToonTanks
+[2022.03.15-17.06.10:829][361]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,9762 ToonTanksEditor Win64 Development -Project="C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/ToonTanks.uproject" "C:/Users/sebas/OneDrive/Documentos/Unreal Projects/ToonTanksProjectSetup_4.25/ToonTanks 4.26/ToonTanks.uproject"  -IgnoreJunk]
+[2022.03.15-17.06.11:137][361]Warning: Starting HotReload took  1.8s.
+[2022.03.15-17.06.11:511][367]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.03.15-17.07.27:912][636]CompilerResultsLog: New page: Compilación - Mar 15, 2022, 11:07:27 AM
+[2022.03.15-17.07.27:913][636]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2022.03.15-17.07.27:913][636]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\ToonTanks.uproject" "C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sebas\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.15-17.07.27:913][636]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 43.6014461 seconds
+[2022.03.15-17.07.27:913][636]CompilerResultsLog: Building ToonTanksEditor...
+[2022.03.15-17.07.27:913][636]CompilerResultsLog: Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.15-17.07.27:914][636]CompilerResultsLog: Building 8 actions with 4 processes...
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   [1/8] ToonTanks.init.gen.cpp
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   [2/8] Projectile.gen.cpp
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Source\ToonTanks/Projectile.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Projectile.generated.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   [3/8] Tank.gen.cpp
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Source\ToonTanks/Tank.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Source\ToonTanks\BasePawn.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo:   C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.generated.h
+[2022.03.15-17.07.27:914][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Tank.generated.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   [4/8] BasePawn.gen.cpp
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Source\ToonTanks/BasePawn.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.generated.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   [5/8] Tower.gen.cpp
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo: C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Source\ToonTanks/Tower.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Source\ToonTanks\BasePawn.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo:   C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.generated.h
+[2022.03.15-17.07.27:915][636]CompilerResultsLog:   Nota: inclusi?n del archivo:  C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Tower.generated.h
+[2022.03.15-17.07.27:916][636]CompilerResultsLog:   [6/8] UE4Editor-ToonTanks-9762.lib
+[2022.03.15-17.07.27:916][636]CompilerResultsLog:      Creando biblioteca C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-9762.lib y objeto C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-9762.exp
+[2022.03.15-17.07.27:916][636]CompilerResultsLog:   [7/8] UE4Editor-ToonTanks-9762.dll
+[2022.03.15-17.07.27:916][636]CompilerResultsLog:      Creando biblioteca C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-9762.suppressed.lib y objeto C:\Users\sebas\OneDrive\Documentos\Unreal Projects\ToonTanksProjectSetup_4.25\ToonTanks 4.26\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-9762.suppressed.exp
+[2022.03.15-17.07.27:916][636]CompilerResultsLog:   [8/8] ToonTanksEditor.target
+[2022.03.15-17.07.27:916][636]CompilerResultsLog: Total time in Parallel executor: 21.21 seconds
+[2022.03.15-17.07.27:916][636]CompilerResultsLog: Total execution time: 76.02 seconds
+[2022.03.15-17.07.27:917][636]LogMainFrame: MainFrame: Module compiling took 78.579 seconds
+[2022.03.15-17.07.28:292][636]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2022.03.15-17.07.28:325][636]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for HotReload, assuming new class
+[2022.03.15-17.07.28:325][636]LogClass: Function OnHit is new.
+[2022.03.15-17.07.28:325][636]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2022.03.15-17.07.28:333][636]LogClass: Could not find existing class Tower in package /Script/ToonTanks for HotReload, assuming new class
+[2022.03.15-17.07.28:388][636]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2022.03.15-17.07.28:444][636]LogHotReload: Re-instancing Projectile after hot-reload.
